@@ -12,8 +12,8 @@ const App=()=> {
         <Header/>
         <Routes>
           <Route exact path='/' element={ <Login/>}/>
-          {/* <Route exact path='/home' element={ <Home/>}/> */}
-          {/* <Route exact path='/detail/:id' element={ <Detail/>}/> */}
+          <Route exact path='/home' element={ <Home/>}/>
+          <Route exact path='/detail/:id' element={ <Detail/>}/>
         </Routes>
       </Router>
     </div>
