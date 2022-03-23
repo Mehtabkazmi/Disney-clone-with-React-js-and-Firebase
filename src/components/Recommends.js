@@ -7,7 +7,7 @@ const Recommends = () => {
     const movies = useSelector(selectRecommend);
   return (
       <div className='container1'>
-          <h4>Recommended for you</h4>
+          <h4>Recommended for you </h4>
           <div className='content1'>
               {movies && movies.map((item,key) => (
                   <div key={key} className='wrap'>

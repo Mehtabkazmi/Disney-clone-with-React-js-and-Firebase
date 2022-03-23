@@ -3,12 +3,13 @@ import "firebase/compat/firestore";
 import "firebase/compat/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCo_AL67bvA6jZ9-UHII9W24dUy9tIK1K0",
-  authDomain: "disney-clone-4b66e.firebaseapp.com",
-  projectId: "disney-clone-4b66e",
-  storageBucket: "disney-clone-4b66e.appspot.com",
-  messagingSenderId: "392997305411",
-  appId: "1:392997305411:web:e36991b05e3d2478d3a8f6"
+  apiKey: "AIzaSyCBmK2ZdeyEmhapAipZK_GXceA_SQzI6vc",
+  authDomain: "disney-clone-a7bf8.firebaseapp.com",
+  projectId: "disney-clone-a7bf8",
+  storageBucket: "disney-clone-a7bf8.appspot.com",
+  messagingSenderId: "207724155211",
+  appId: "1:207724155211:web:2bd4e33a80fec7c2a218ce",
+  measurementId: "G-2Z6LLR28BN"
 };
 
 

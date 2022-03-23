@@ -54,7 +54,8 @@ const Home = () => {
             <Recommends />
             <NewDisney />
             <Originals />
-            <Trending/>
+        <Trending />
+        <p>mehtab</p>
         </Container>
     )
 };
